@@ -1,10 +1,13 @@
 # assignment2
 DE mobile MIU
 Screens of task 1 
-![1.png](1.png)
-![2.png](2.png)
-![3.png](3.png)
-![4.png](4.png)
+<div>
+  <img src="1.png" width="400" height="250"  /> <img src="2.png" width="400" height="250"  />
+</div>
+<div>
+  <img src="3.png" width="400" height="250" /> <img src="4.png" width="400" height="250"  />
+</div>
+
 
 
 screens for task 2 Amazon Login screen 
