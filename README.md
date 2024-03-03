@@ -7,6 +7,9 @@ Screens of task 1
 <div>
   <img src="3.png" width="400"  /> <img src="4.png" width="400"   />
 </div>
+<div>
+  <img src="amazon.png" width="400"  />
+</div>
 
 
 

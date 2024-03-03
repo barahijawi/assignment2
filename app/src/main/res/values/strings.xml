@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">assignment2</string>
+
+    <string name="amazon_logo">Amazon Logo</string>
+    <string name="sign_in_to_zappos">Sign in to Zappos.com using your Amazon account</string>
+    <string name="email_hint">Email (phone for mobile accounts)</string>
+    <string name="password_hint">Amazon password</string>
+    <string name="show_password">Show password</string>
+    <string name="sign_in">Sign in</string>
+    <string name="create_new_account">Create a new Amazon account</string>
+    <string name="terms_conditions">Conditions of Use Privacy Notice</string>
+    <string name="keep_me_signed_in">Keep me signed in. &lt;font color=\'#FF0000FF\'&gt;Details&lt;/font&gt;</string>
+
+
+
 </resources>
